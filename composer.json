@@ -1,19 +1,19 @@
 {
-    "name": "hisorange/browser-detect",
-    "description": "Browser & Mobile detection package for Laravel.",
+    "name": "lxlkuc/browser-detect",
+    "description": "Browser & Mobile detection package for Laravel 6.0.",
     "keywords": ["laravel", "user-agent", "browser", "mobile", "detect", "tablet", "user agent", "mobile", "tablet", "analyize", "hisorange"],
-    "homepage": "https://github.com/hisorange/browser-detect",
+    "homepage": "https://github.com/lxlkuc/browser-detect",
     "license": "MIT",
-    "version": "3.1.4",
+    "version": "3.1.5",
     "authors": [
         {
-            "name": "Varga Zsolt (hisorange)",
-            "email": "hello@hisorange.me"
+            "name": "Varga Zsolt (hisorange) / fork by kuc",
+            "email": "hello@hisorange.me / lynn_angell@hotmail.com"
         }
     ],
     "require": {
-        "php": ">=5.6.0",
-        "laravel/framework": "~5.0",
+        "php": ">=7.2.0",
+        "laravel/framework": "~6.0",
         "ua-parser/uap-php": "~3.8",
         "league/pipeline": "~0.1",
         "mobiledetect/mobiledetectlib": "~2.0",
